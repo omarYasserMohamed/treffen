@@ -11,6 +11,7 @@
     "aws-sdk": "^2.742.0",
     "axios": "^0.20.0",
     "bcrypt": "^5.0.0",
+    "bootstrap": "^4.5.2",
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
     "data.js": "^0.12.11",
