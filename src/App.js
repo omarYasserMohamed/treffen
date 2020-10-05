@@ -14,7 +14,8 @@ import Logout from "./components/logout.component"
 import EditUser from "./components/editUser.component"
 import Comments from "./components/comments.component"
 import ChangePassword from "./components/changePassword.component"
-
+import Navbar1 from './components/navbar1.component'
+import "bootstrap/dist/css/bootstrap.min.css"
 
 
 
